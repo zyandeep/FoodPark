@@ -1,0 +1,22 @@
+body {
+	background-color: #f0f0f0;
+}
+
+div.form-container {
+  margin-top: 20px; 
+  margin-bottom: 20px;
+}
+
+.form-container h3 {
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+table img {
+	max-width: 100px;
+	height: auto;
+}
+
+div.table-responsive {
+	margin-top: 7px;
+}
