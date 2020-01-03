@@ -8,5 +8,7 @@
             "email": "zyandeep000@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
 }
